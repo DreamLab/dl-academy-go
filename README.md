@@ -1,4 +1,4 @@
-# DreamLab Go Academy
+# DreamLab Academy Go
 
 More coming soon...
 
