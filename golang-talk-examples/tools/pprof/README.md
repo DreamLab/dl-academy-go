@@ -1,5 +1,5 @@
 # go tool pprof
-Built-in go proflier
+Built-in go profiler
 
 # Prepare data for profiler
 ```
@@ -14,7 +14,10 @@ go test   -bench=.  -benchmem -cpuprofile prof.cpu -memprofile prof.mem
 ```
 go tool pprof pprof.test  prof.cpu
 ```
-# Memory profier
+# Memory profiler
 ```
 go tool pprof -alloc_objects pprof.test prof.mem
 ```
+
+
+[Presentation about profiling Go application](https://www.youtube.com/watch?v=N3PWzBeLX2M)

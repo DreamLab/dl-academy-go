@@ -1,14 +1,14 @@
 # DreamLab Academy Go
 
-Repository contains materials for DreamLab Go Academy.
+Repository contains materials from DreamLab Go Academy.
 
 Code examples:
 
-* [Hello world](hello-world)
-* ...More to come!
+* [Code from slides](golang-talk-examples/)
+* [Tools in Go](golang-talk-examples/tools)
+* [Crawler step by step](golang-talk-examples/crawler-step-by-step)
 
-Presentation:
-* it will be available after 19.04
+Presentation: [click](resources/GoLangIntroduction.pdf)
 
 
 <img src="https://github.com/DreamLab/dl-academy-go/blob/master/resources/gopher.png" width="500px"/>
