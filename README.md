@@ -11,4 +11,4 @@ Presentation:
 * it will be available after 19.04
 
 
-<img src="https://github.com/DreamLab/dl-academy-go/blob/master/img/gopher.png" width="500px"/>
+<img src="https://github.com/DreamLab/dl-academy-go/blob/master/resources/gopher.png" width="500px"/>
