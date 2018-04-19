@@ -5,7 +5,7 @@ Repository contains materials for DreamLab Go Academy.
 Code examples:
 
 * [Hello world](hello-world) 
-* ...More to come! 
+* ...More to come!
 
 Presentation:
 * it will be available after 19.04
