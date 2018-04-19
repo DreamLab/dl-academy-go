@@ -40,7 +40,7 @@ curl -X POST localhost:55555 -i -d 'Eloszka'
 
 ## 4-crawler and 5-crawlerworkers
 
-Create crawler that download given urls. Crawler form 5-crawlerworkers uses 3 goroutines workers to execute task.
+Create crawler that download given urls. Crawler from 5-crawlerworkers uses 3 goroutines workers to execute tasks.
 
 ```bash
 go run 5-crawlerworkers.go
