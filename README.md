@@ -1,10 +1,10 @@
 # DreamLab Academy Go
 
-Repository contains materials for DreamLab Go Academy. 
+Repository contains materials for DreamLab Go Academy.
 
 Code examples:
 
-* [Hello world](hello-world) 
+* [Hello world](hello-world)
 * ...More to come!
 
 Presentation:
