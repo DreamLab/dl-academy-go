@@ -1,0 +1,13 @@
+package main
+
+import "fmt"
+
+type mystruct struct {
+	val           int
+	veryLongValue int // comment
+
+}
+
+func main() {
+	fmt.Println("hello")
+}
